@@ -10,7 +10,7 @@ package laboratorio10;
  */
 public interface ReproductorMusica {
     public void Reproducir();
-    public void Detener();
+    public void Stop();
     public void Siguiente();
     public void Anterior();
 }

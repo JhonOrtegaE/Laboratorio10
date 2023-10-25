@@ -9,8 +9,10 @@ package laboratorio10;
  * @author Ortega Echenique
  */
 public interface NavegadorInternet {
-    public void buscar();
+    public void Buscar();
     public void Actualizar();
     public void Detener();
     public void Home();
+    public void Retroceder();
+    public void Avanzar();
 }

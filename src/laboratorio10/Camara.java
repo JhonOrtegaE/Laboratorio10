@@ -9,8 +9,8 @@ package laboratorio10;
  * @author Ortega Echenique
  */
 public interface Camara {
-    public void grabarVideo();
-    public void tomarFoto();
+    public void GrabarVideo();
+    public void TomarFoto();
     public void ModoCine();
     public void ModoRetrato();
 }
